@@ -73,4 +73,4 @@ switch ( new Date().getDay()) {
         break;
 };
 
-console.log(currentDay)
+console.log(currentDay);
